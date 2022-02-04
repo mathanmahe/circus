@@ -1,6 +1,4 @@
-public class Animal {
+public abstract class Animal {
 
-    public String speak() {
-        return null;
-    }
+    public abstract String speak();
 }
